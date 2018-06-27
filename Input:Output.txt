@@ -1,0 +1,42 @@
+Enter the attribute list: "
+input : A B C D
+	A B C D
+  []
+Enter no of tuple to add in table :
+9
+F D G H
+I 3 1 H
+J 8 2 H
+L 5 3 H
+K S 4 H
+H F 5 H
+T B 6 H
+R S 7 H
+X Z 8 H
+After adding all tuple table content:
+	A B C D
+0	F D G H
+1	I 3 1 H
+2	J 8 2 H
+3	L 5 3 H
+4	K S 4 H
+5	H F 5 H
+6	T B 6 H
+7	R S 7 H
+8	X Z 8 H
+Enter search query
+Input : select * from tane where B == 3
+	A B C D
+1   I 3 1 H
+# now only file is done 
+file content is
+F D G H
+I 3 1 H
+J 8 2 H
+L 5 3 H
+K S 4 H
+H F 5 H
+T B 6 H
+R S 7 H
+X Z 8 H
+ 
